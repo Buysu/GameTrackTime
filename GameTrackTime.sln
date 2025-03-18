@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTrackTime", "GameTrackTime\GameTrackTime.csproj", "{A8928D81-5C89-408A-8524-8E16A7410602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTrackLib", "GameTrackLib\GameTrackLib.csproj", "{E95FC72D-78D8-4D06-8FC1-7920A49AEF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8928D81-5C89-408A-8524-8E16A7410602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8928D81-5C89-408A-8524-8E16A7410602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8928D81-5C89-408A-8524-8E16A7410602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8928D81-5C89-408A-8524-8E16A7410602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95FC72D-78D8-4D06-8FC1-7920A49AEF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95FC72D-78D8-4D06-8FC1-7920A49AEF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95FC72D-78D8-4D06-8FC1-7920A49AEF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95FC72D-78D8-4D06-8FC1-7920A49AEF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
